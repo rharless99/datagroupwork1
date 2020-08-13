@@ -1,0 +1,6 @@
+gas prices by:
+election year
+proximity to major roads-google api+collectapi
+travel season
+proximity to major tourist sites-google api+collectapi
+population size-google api+collectapi
